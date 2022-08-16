@@ -31,10 +31,10 @@ forge_support: true
 disabled_commands:
 servers:
   main:
-    motd: '§2Building with more than just blocks.§r'
+    motd: '§2Bunkies§r'
     address: "paper:25565"
     restricted: true
   queue:
-    motd: '&1CivMC Lobby'
+    motd: '&1Lobby'
     address: "queue:25565"
     restricted: true

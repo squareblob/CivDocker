@@ -1,6 +1,6 @@
 chat:
   #globalChatRange: The base chat distance that people will message across def=1000
-  globalChatRange: 1000
+  globalChatRange: 10000
   #defaultChatColor: The default chatcolor to use for global chat def=BLUE
   defaultChatColor: WHITE
   #color for console and OP "say" command
@@ -20,7 +20,7 @@ info:
   afkmessage: Player is currently AFK
   loginAnnounce: false
   #chatRangeWarn: warns new players about the local chat limit.
-  chatRangeWarn: true
+  chatRangeWarn: false
 mysql:
   host: ${CIV_MYSQL_HOST}
   dbname: civchat2

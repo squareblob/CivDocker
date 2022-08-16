@@ -1,0 +1,18 @@
+reinforcement_presets:
+  default:
+    groups:
+      - GROUP
+    commands:
+      - "cmask sponge"
+      - "bastionmask bastion"
+      - "reinmask $GROUP DIAMOND"
+      - "cmask !sponge"
+      - "reinmask $GROUP IRON"
+      - "cmask ##trapdoors"
+      - "reinmask $GROUP DIAMOND"
+      - "cmask ##doors"
+      - "reinmask $GROUP DIAMOND"
+      - "cmask CHEST,TRAPPED_CHEST,GOLD_BLOCK,BARREL"
+      - "reinmask $GROUP DIAMOND"
+      - "cmask obsidian <##doors"
+      - "reinmask $GROUP DIAMOND"

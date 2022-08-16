@@ -57,8 +57,8 @@ services:
     tty: true
     stdin_open: true
     environment:
-      INIT_MEMORY: 1G
-      MAX_MEMORY: 5G
+      INIT_MEMORY: 512M
+      MAX_MEMORY: 1G
 
       CIV_SERVER_NAME: local-queue
 

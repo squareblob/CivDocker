@@ -11,7 +11,7 @@ sql:
 groups:
   enable: true
   grouplimit: 25
-  creationOnFirstJoin: true
+  creationOnFirstJoin: false
 persistance:
   forceloadnamecaching: true
 #name_cleanser:

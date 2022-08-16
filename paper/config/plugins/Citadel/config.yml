@@ -45,7 +45,7 @@ reinforcements:
     acid_time: 20m
     acid_priority: 2
     name: Stone
-    hit_points: 50
+    hit_points: 20
     allowed_worlds:
       - world
   netherbrick:
@@ -73,7 +73,7 @@ reinforcements:
     acid_time: 20m
     acid_priority: 2
     name: Netherbrick
-    hit_points: 50
+    hit_points: 20
     allowed_worlds:
       - world_nether
   iron:
@@ -97,11 +97,11 @@ reinforcements:
       speed: 0.13
       particleCount: 200
       offset: 0
-    mature_time: 30m
+    mature_time: 20m
     acid_time: 6h
     acid_priority: 5
     name: Iron
-    hit_points: 300
+    hit_points: 100
     allowed_worlds:
       - world
   gold:
@@ -125,11 +125,11 @@ reinforcements:
       speed: 0.13
       particleCount: 200
       offset: 0
-    mature_time: 30m
+    mature_time: 20m
     acid_time: 6h
     acid_priority: 5
     name: Gold
-    hit_points: 300
+    hit_points: 100
     allowed_worlds:
       - world_nether
   diamond:
@@ -153,11 +153,11 @@ reinforcements:
       speed: 0.5
       particleCount: 500
       offset: 0.1
-    mature_time: 4h
+    mature_time: 2h
     acid_time: 48h
     acid_priority: 10
     name: Diamond
-    hit_points: 2000
+    hit_points: 1000
     allowed_worlds:
       - world
   gildedblackstone:
@@ -181,11 +181,11 @@ reinforcements:
       speed: 0.5
       particleCount: 500
       offset: 0.1
-    mature_time: 4h
+    mature_time: 2h
     acid_time: 48h
     acid_priority: 10
     name: GildedBlackstone
-    hit_points: 2000
+    hit_points: 1000
     allowed_worlds:
       - world_nether
   bedrock:

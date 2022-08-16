@@ -109,7 +109,7 @@ hacks:
   DebugWand:
     enabled: true
   DogFacts:
-    enabled: true
+    enabled: false
     intervalTime: 15m
     announcements:
       #- '["",{"text":"[CivMC] ","color":"gold"},{"text":"Join the Official Discord at https://discord.gg/eXE8X9HkFF","color":"green","clickEvent":{"action":"open_url","value":"https://discord.gg/eXE8X9HkFF"}}]'
@@ -446,7 +446,7 @@ hacks:
       - org.bukkit.event.weather
       - org.bukkit.event.world
   Introbook:
-    enabled: true  
+    enabled: false
     follow: true
     contents:
       title: Welcome ${player}!
@@ -467,7 +467,7 @@ hacks:
   InvControl:
     enabled: true
   NewfriendAssist:
-    enabled: true
+    enabled: false
     announce: '&f%Player% is brand new!'
     giveIntroKitToRandomSpawners: false
     broadcast: [CONSOLE, ALL]
@@ -513,7 +513,7 @@ hacks:
             - "This will help you"
             - "get on track."
   ReinforcedChestBreak:
-    enabled: true    
+    enabled: false
     # in seconds
     delay: 180
     message: "&4%player% is raiding a chest at %x% %y% %z%."

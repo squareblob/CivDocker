@@ -1,25 +1,19 @@
 [
   {
-    "uuid": "771e81cd-2f11-43b4-bd86-731fe468f131",
-    "name": "Wingzero54",
+    "uuid": "6b0cb7dd-e080-436e-a920-249acde4bf84",
+    "name": "triangleblob",
     "level": 4,
     "bypassesPlayerLimit": true
   },
   {
-    "uuid": "54b84e38-ac83-43c0-b285-8c7163343488",
-    "name": "Ahrimanne",
+    "uuid": "2faedd6b-d173-47c9-b12d-628600396af8",
+    "name": "ThatBotterStare",
     "level": 4,
     "bypassesPlayerLimit": true
   },
   {
-    "uuid": "6e8e4f6f-a414-4f13-962c-6d914363788a",
-    "name": "SoundTech",
-    "level": 4,
-    "bypassesPlayerLimit": true
-  },
-  {
-    "uuid": "638af9c6-c734-45d9-b092-13a4e184f7f6",
-    "name": "Diet_Cola",
+    "uuid": "415f7298-523a-4d2e-b60f-c54d2e2f6797",
+    "name": "Circleblob",
     "level": 4,
     "bypassesPlayerLimit": true
   }
