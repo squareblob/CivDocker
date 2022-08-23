@@ -1,14 +1,11 @@
-teamFight:
-  team_1_group: "red"
-  team_2_group: "blue"
 database:
   ==: vg.civcraft.mc.civmodcore.dao.DatabaseCredentials
-  plugin: CivArenaManager
+  plugin: CivArena
   user: ${CIV_MYSQL_USERNAME}
   password: ${CIV_MYSQL_PASSWORD}
   host: ${CIV_MYSQL_HOST}
   port: 3306
-  database: civarenamanager
+  database: civarena
   poolsize: 20
   connection_timeout: 10000
   idle_timeout: 600000

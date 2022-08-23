@@ -1,3 +1,5 @@
+reinforcement_batch_amount: 20000
+reinforcement_batch_wait_ticks: 20
 reinforcement_presets:
   default:
     groups:

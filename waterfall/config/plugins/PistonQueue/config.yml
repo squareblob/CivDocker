@@ -8,7 +8,7 @@
 # If both PistonQueue and PistonMOTD are installed on your proxy, the following placeholders will be available in the PistonMOTD config:
 # %pistonqueue_regular%, %pistonqueue_priority%, %pistonqueue_veteran%
 
-SERVERNAME: "CivMC"
+SERVERNAME: "Bunkies"
 
 # Username regex
 ENABLEREGEX: true
@@ -19,7 +19,7 @@ REGEXMESSAGE: "&6[PQ] Invalid username please use: %regex%"
 REGISTERTAB: true
 
 # Server is full message
-SERVERISFULLMESSAGE: "&6CivMC is full"
+SERVERISFULLMESSAGE: "&6Bunkies is full"
 
 # It is not recommended decreasing this number (milliseconds)
 SERVERONLINECHECKDELAY: 500
@@ -43,7 +43,7 @@ STARTTIME: 30
 
 # When the main server is down should you kick the player from the queue?
 KICKWHENDOWN: false
-SERVERDOWNKICKMESSAGE: "CivMC is restarting, please try again in a minute."
+SERVERDOWNKICKMESSAGE: "Bunkies is restarting, please try again in a minute."
 
 # If a player gets kicked from the main server (it goes down/crashes), he gets sent into queue and waits.
 IFMAINDOWNSENDTOQUEUE: true
@@ -138,7 +138,7 @@ ADMINPERMISSION: "queue.admin"
 # this only shows when your in the queue waiting to join use a separate plugin for your main server
 HEADER:
   - ""
-  - " CivMC "
+  - " Bunkies "
   - ""
   - " &bWe are full! "
   - " Position in queue: %position% "
@@ -153,7 +153,7 @@ FOOTER:
 # Configs for priority queue tab list
 HEADERPRIORITY:
   - ""
-  - " CivMC "
+  - " Bunkies "
   - ""
   - " &bWe are full! "
   - " Position in queue: %position% "

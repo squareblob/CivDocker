@@ -17,7 +17,7 @@ hacks:
     pearlLifetime: 2m
   #Bounds armour to specific players disallowing others to wear the same armour piece after first equip
   ArmourBound:
-    enabled: true
+    enabled: false
     whitelist:
       - DIAMOND_HELMET
       - DIAMOND_CHESTPLATE
