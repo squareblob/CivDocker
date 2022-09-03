@@ -6,7 +6,9 @@ reinforcement_presets:
       - GROUP
     commands:
       - "cmask sponge"
-      - "bastionmask bastion"
+      - "bastionmask basic"
+      - "cmask bone_block"
+      - "bastionmask city"
       - "reinmask $GROUP DIAMOND"
       - "cmask !sponge"
       - "reinmask $GROUP IRON"
